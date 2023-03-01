@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/nomad_todolist.git/static/js/main.486aecd0.js",
-    "index.html": "/nomad_todolist.git/index.html",
-    "main.486aecd0.js.map": "/nomad_todolist.git/static/js/main.486aecd0.js.map"
+    "main.js": "/nomad_todolist/static/js/main.18b25565.js",
+    "index.html": "/nomad_todolist/index.html",
+    "main.18b25565.js.map": "/nomad_todolist/static/js/main.18b25565.js.map"
   },
   "entrypoints": [
-    "static/js/main.486aecd0.js"
+    "static/js/main.18b25565.js"
   ]
 }
